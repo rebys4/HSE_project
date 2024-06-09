@@ -1,0 +1,3 @@
+C:/Users/Mi/CLionProjects/sem5_1/cmake-build-debug/CMakeFiles/sem5_1.dir
+C:/Users/Mi/CLionProjects/sem5_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mi/CLionProjects/sem5_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

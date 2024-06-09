@@ -1,0 +1,20 @@
+# ninja log v5
+0	544	7355868032856682	CMakeFiles/hw_stack.dir/main.cpp.obj	9cf0e09561f0431b
+757	1205	7357631789927188	hw_stack.exe	d77aa088aeb7e0c4
+1	287	7358452039481896	build.ninja	7243683109a09d26
+0	757	7357631785497336	CMakeFiles/hw_stack.dir/stack_main.cpp.obj	322dc891dcc4e5b5
+3	840	7358452039481896	build.ninja	7243683109a09d26
+5	690	7358452048108960	CMakeFiles/hw_stack.dir/stack_main.cpp.obj	322dc891dcc4e5b5
+691	858	7358452049740152	hw_stack.exe	d77aa088aeb7e0c4
+4	639	7358453079994920	CMakeFiles/hw_stack.dir/stack_main.cpp.obj	322dc891dcc4e5b5
+640	768	7358453081215374	hw_stack.exe	d77aa088aeb7e0c4
+6	672	7358453603377116	CMakeFiles/hw_stack.dir/stack_main.cpp.obj	322dc891dcc4e5b5
+673	801	7358453604599364	hw_stack.exe	d77aa088aeb7e0c4
+4	650	7358453775044580	CMakeFiles/hw_stack.dir/stack_main.cpp.obj	322dc891dcc4e5b5
+651	796	7358453776417759	hw_stack.exe	d77aa088aeb7e0c4
+9	711	7358454284533239	CMakeFiles/hw_stack.dir/stack_main.cpp.obj	322dc891dcc4e5b5
+712	866	7358454286009376	hw_stack.exe	d77aa088aeb7e0c4
+6	827	7358455715621036	CMakeFiles/hw_stack.dir/stack_main.cpp.obj	322dc891dcc4e5b5
+828	955	7358455716876412	hw_stack.exe	d77aa088aeb7e0c4
+4	661	7358455931883613	CMakeFiles/hw_stack.dir/stack_main.cpp.obj	322dc891dcc4e5b5
+662	798	7358455933165854	hw_stack.exe	d77aa088aeb7e0c4

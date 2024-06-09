@@ -1,0 +1,3 @@
+C:/Users/Mi/CLionProjects/hw_stringview/cmake-build-debug/CMakeFiles/hw_stringview.dir
+C:/Users/Mi/CLionProjects/hw_stringview/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mi/CLionProjects/hw_stringview/cmake-build-debug/CMakeFiles/rebuild_cache.dir

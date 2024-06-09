@@ -1,0 +1,7 @@
+# ninja log v5
+3	576	7393803436538313	CMakeFiles/unique_ptr.dir/main.cpp.obj	18c289c9947a6874
+577	887	7393803439600793	unique_ptr.exe	983e4f434f79a952
+8	574	7393803436518298	CMakeFiles/unique_ptr.dir/unique_ptr.cpp.obj	48f811fbc7c91cde
+4	917	7394081499396003	CMakeFiles/unique_ptr.dir/git_test/main.cpp.obj	209929f2a745ed1c
+5	104	7394082573929985	CMakeFiles/unique_ptr.dir/git_test/main.cpp.obj	209929f2a745ed1c
+106	237	7394082575194846	unique_ptr.exe	de23b5b281898627

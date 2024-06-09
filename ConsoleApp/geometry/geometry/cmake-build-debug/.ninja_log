@@ -1,0 +1,9 @@
+# ninja log v5
+35	1540	7380840682874343	CMakeFiles/geometry.dir/src/Vector.cpp.obj	8ac56c6c7f27fbf8
+23	1167	7380843898773428	CMakeFiles/geometry.dir/src/Segment.cpp.obj	63c5d60844d5ee51
+4	1540	7380843902487079	CMakeFiles/geometry.dir/main.cpp.obj	d11252b9bd601e68
+4	473	7380844154292959	CMakeFiles/geometry.dir/src/Point.cpp.obj	24f456e2699feb29
+21	1137	7380846444193696	CMakeFiles/geometry.dir/src/Segment.cpp.obj	63c5d60844d5ee51
+12	1146	7380846444183685	CMakeFiles/geometry.dir/src/Point.cpp.obj	24f456e2699feb29
+3	1572	7380846448611249	CMakeFiles/geometry.dir/main.cpp.obj	d11252b9bd601e68
+1572	1926	7380846452004709	geometry.exe	78b83e31de8bcba

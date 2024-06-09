@@ -1,0 +1,26 @@
+# ninja log v5
+716	920	7371491300304523	hw_stringview.exe	a931b87a449dac43
+1	239	7376634938390434	build.ninja	d672f2905f6db0e1
+1	967	7371520574292465	CMakeFiles/hw_stringview.dir/string_view.cpp.obj	768575c4531b5ae1
+3	569	7376652368908371	CMakeFiles/hw_stringview.dir/string_view.cpp.obj	768575c4531b5ae1
+4	602	7376652706769767	CMakeFiles/hw_stringview.dir/main_test.cpp.obj	7205be2c7dc23ab7
+603	803	7376652708712755	hw_stringview.exe	5aab48136c27d8d2
+5	535	7376652873680060	CMakeFiles/hw_stringview.dir/main_test.cpp.obj	7205be2c7dc23ab7
+535	656	7376652874846973	hw_stringview.exe	5aab48136c27d8d2
+6	556	7376653004397522	CMakeFiles/hw_stringview.dir/main_test.cpp.obj	7205be2c7dc23ab7
+593	744	7376653006177482	hw_stringview.exe	5aab48136c27d8d2
+6	552	7376653071236521	CMakeFiles/hw_stringview.dir/main_test.cpp.obj	7205be2c7dc23ab7
+553	679	7376653072443449	hw_stringview.exe	5aab48136c27d8d2
+5	496	7376653235133744	CMakeFiles/hw_stringview.dir/main_test.cpp.obj	7205be2c7dc23ab7
+496	611	7376653236232848	hw_stringview.exe	5aab48136c27d8d2
+3	563	7376653949660461	CMakeFiles/hw_stringview.dir/main_test.cpp.obj	7205be2c7dc23ab7
+564	677	7376653950742657	hw_stringview.exe	5aab48136c27d8d2
+8	652	7376654583032429	CMakeFiles/hw_stringview.dir/main_test.cpp.obj	7205be2c7dc23ab7
+652	766	7376654584093317	hw_stringview.exe	5aab48136c27d8d2
+5	549	7376655079206558	CMakeFiles/hw_stringview.dir/main_test.cpp.obj	7205be2c7dc23ab7
+549	665	7376655080290313	hw_stringview.exe	5aab48136c27d8d2
+6	496	7376655407983400	CMakeFiles/hw_stringview.dir/main_test.cpp.obj	7205be2c7dc23ab7
+497	620	7376655409170699	hw_stringview.exe	5aab48136c27d8d2
+4	473	7376659250748769	CMakeFiles/hw_stringview.dir/main_test.cpp.obj	7205be2c7dc23ab7
+16	492	7376659250951469	CMakeFiles/hw_stringview.dir/string_view.cpp.obj	768575c4531b5ae1
+492	601	7376659251985092	hw_stringview.exe	5aab48136c27d8d2

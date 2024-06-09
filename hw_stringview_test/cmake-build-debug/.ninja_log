@@ -1,0 +1,7 @@
+# ninja log v5
+6	431	7371629301205321	CMakeFiles/hw_stringview_test.dir/main_test.cpp.obj	4daf1fc52364e281
+0	435	7371629301215381	CMakeFiles/hw_stringview_test.dir/main.cpp.obj	a4627762d99253de
+11	436	7371629301225494	CMakeFiles/hw_stringview_test.dir/string_view.cpp.obj	f6f0549efc821799
+3	336	7371629917128255	CMakeFiles/hw_stringview_test.dir/main_test.cpp.obj	4daf1fc52364e281
+3	324	7371629968113051	CMakeFiles/hw_stringview_test.dir/main_test.cpp.obj	4daf1fc52364e281
+3	383	7371632163969074	CMakeFiles/hw_stringview_test.dir/main_test.cpp.obj	4daf1fc52364e281
