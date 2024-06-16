@@ -1,0 +1,6 @@
+# ninja log v5
+0	1354	7402553919419460	CMakeFiles/shared_ptr.dir/main.cpp.obj	837f0c548eedefff
+8	30667	7402554211551332	CMakeFiles/shared_ptr.dir/shared_ptr_public_test.cpp.obj	e5a156cc65d14154
+1	272	7402555157844136	build.ninja	540ca213083d5941
+5	84094	7402556000288812	shared_ptr.exe	988c438dec625784
+5	32291	7402562046943630	CMakeFiles/shared_ptr.dir/shared_ptr_public_test.cpp.obj	e5a156cc65d14154
